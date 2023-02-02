@@ -1,2 +1,2 @@
-# desafio_bootcamp_html_dio
-Repositório do Bootcamp HTML Dio
+# Repositório Bootcamp HTML Dio 
+Repositório criado para prática do primeiro desafio do Bootcamp HTML Dio.
