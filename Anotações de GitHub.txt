@@ -1,0 +1,6 @@
+ATUALIZAÇÃO DE REPOSITÓRIO
+1 - git clone
+2 - git status = Reconhecimento dos novos arquivos dentro do repositório.
+3 - git add . = Reconhecimento dos novos arquivos que irão para o servidor remoto do GitHub.
+4 - git commit -m "Informação sobre o commit"
+5 - git push origin main - Adicionar no Github.
